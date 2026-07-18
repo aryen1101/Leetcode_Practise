@@ -6,18 +6,21 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
