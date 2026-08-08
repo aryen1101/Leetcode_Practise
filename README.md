@@ -43,6 +43,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Two Pointers
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -108,6 +110,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | ------- |
 | [0877-stone-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
