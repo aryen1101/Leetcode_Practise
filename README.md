@@ -41,6 +41,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
