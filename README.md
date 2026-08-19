@@ -33,6 +33,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [0628-maximum-product-of-three-numbers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -115,6 +117,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -135,6 +138,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
