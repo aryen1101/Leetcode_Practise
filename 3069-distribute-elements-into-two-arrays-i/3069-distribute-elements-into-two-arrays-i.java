@@ -1,5 +1,11 @@
 class Solution {
-    public int[] resultArray(int[] nums) {
+
+    static{
+        for(int i = 0 ; i < 500 ; i++){
+            resultArray(new int[]{1,1,1});
+        }
+    }
+    public static int[] resultArray(int[] nums) {
 
         ArrayList<Integer> arr1 = new ArrayList<>();
         ArrayList<Integer> arr2 = new ArrayList<>();
