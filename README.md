@@ -10,6 +10,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [0877-stone-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [1386-cinema-seat-allocation](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -97,6 +99,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [0877-stone-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -169,17 +173,20 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [0877-stone-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
