@@ -1,7 +1,8 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
 
-        for(int i = k ;  ; i+=k){
+        int i = k;
+        while(true){
             boolean isPresent = false;
 
             for(int num : nums){
@@ -12,6 +13,7 @@ class Solution {
             }
 
             if(!isPresent) return i;
+            i += k;
 
         }
     }
