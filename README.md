@@ -112,6 +112,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -197,4 +198,8 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
