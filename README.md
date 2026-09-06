@@ -120,6 +120,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1510-stone-game-iv) |
