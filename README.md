@@ -136,6 +136,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [0115-distinct-subsequences](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -263,4 +265,8 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
