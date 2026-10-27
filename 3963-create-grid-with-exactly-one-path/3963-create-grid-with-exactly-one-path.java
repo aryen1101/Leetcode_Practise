@@ -6,7 +6,7 @@ class Solution {
             char[] row = new char[n];
 
             for (int j = 0; j < n; j++) {
-                row[j] = (i == 0 || j == n - 1) ? '.' : '#';
+                row[j] = (j == 0 || i == m - 1) ? '.' : '#';
             }
 
             answer[i] = new String(row);
