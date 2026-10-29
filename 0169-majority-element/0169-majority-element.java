@@ -1,22 +1,31 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        
-        int val = 0;
-        int count = 0;
 
-        for(int num : nums){
-            if(count == 0){
-                val = num;
-            }
+        int ans = 0;
+        int n = nums.length;
 
-            if(val == num){
-                count++;
+        for(int i = 0 ; i < 32 ; i++){
+            int count = 0;
+            for(int j = 0 ; j < n ; j++){
+                if(checkBit(nums[j], i)){
+                    count++;
+                }
+                
             }
-            else{
-                count--;
+            if(count > n/2){
+                ans = setBit(ans , i);
             }
         }
 
-        return val;
+        return ans;
+        
+    }
+
+    public boolean checkBit(int n, int i) {
+        return ((n >> i) & 1) > 0;
+    }
+
+    public int setBit(int n, int i) {
+        return n | (1 << i);
     }
 }
