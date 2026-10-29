@@ -38,6 +38,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1260-shift-2d-grid) |
@@ -90,6 +91,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0001-two-sum) |
 | [1386-cinema-seat-allocation](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
