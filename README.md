@@ -39,6 +39,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0877-stone-game) |
@@ -217,6 +218,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0940-distinct-subsequences-ii) |
@@ -293,6 +295,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
