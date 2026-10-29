@@ -39,6 +39,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1260-shift-2d-grid) |
@@ -73,6 +74,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -92,6 +94,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -119,6 +122,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -286,4 +290,12 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
