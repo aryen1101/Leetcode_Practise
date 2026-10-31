@@ -61,6 +61,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -140,6 +141,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | ------- |
 | [1260-shift-2d-grid](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3665-twisted-mirror-path-count) |
 ## String
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [1510-stone-game-iv](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3665-twisted-mirror-path-count](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3665-twisted-mirror-path-count) |
 ## Game Theory
 |  |
 | ------- |
