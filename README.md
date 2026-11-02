@@ -6,6 +6,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -41,6 +42,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [0001-two-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1260-shift-2d-grid) |
@@ -77,6 +79,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
