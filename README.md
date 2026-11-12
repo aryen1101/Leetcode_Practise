@@ -61,6 +61,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [2747-count-zero-request-servers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
