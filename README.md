@@ -63,6 +63,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
 | ------- |
