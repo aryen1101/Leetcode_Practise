@@ -43,6 +43,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | ------- |
 | [0001-two-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -81,11 +82,13 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0075-sort-colors) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -336,4 +339,12 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
