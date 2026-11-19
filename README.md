@@ -61,6 +61,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [1882-process-tasks-using-servers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -205,6 +207,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [1386-cinema-seat-allocation](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
