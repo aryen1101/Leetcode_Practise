@@ -42,6 +42,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0075-sort-colors) |
@@ -84,6 +85,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0075-sort-colors) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -91,6 +93,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
