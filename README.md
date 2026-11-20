@@ -65,6 +65,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -103,6 +104,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [2747-count-zero-request-servers](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -261,6 +263,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/1872-stone-game-viii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3665-twisted-mirror-path-count](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3665-twisted-mirror-path-count) |
 ## Game Theory
