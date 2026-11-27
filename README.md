@@ -85,6 +85,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode solutions in Java, organized by topic and difficulty wi
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3665-twisted-mirror-path-count](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3665-twisted-mirror-path-count) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aryen1101/Leetcode_Daily_Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Game Theory
 |  |
 | ------- |
